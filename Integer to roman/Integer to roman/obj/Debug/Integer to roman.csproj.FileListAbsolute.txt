@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\bin\Debug\Integer to roman.exe.config
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\bin\Debug\Integer to roman.exe
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\bin\Debug\Integer to roman.pdb
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\obj\Debug\Integer to roman.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\obj\Debug\Integer to roman.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\obj\Debug\Integer to roman.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\obj\Debug\Integer to roman.exe
+C:\Users\pc\Desktop\GITHUB_code_files\leetcode_solutions\Integer to roman\Integer to roman\obj\Debug\Integer to roman.pdb
